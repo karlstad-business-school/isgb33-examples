@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/bson-4.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/bson-4.7.1.jar" sourcepath="C:/Users/piersjob/.m2/repository/org/mongodb/bson/4.7.1/bson-4.7.1-sources.jar"/>
 	<classpathentry kind="lib" path="lib/bson-record-codec-4.7.1.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.12.0.jar"/>
 	<classpathentry kind="lib" path="lib/commons-text-1.9.jar"/>
@@ -21,8 +21,8 @@
 	<classpathentry kind="lib" path="lib/jetty-util-9.4.31.v20200723.jar"/>
 	<classpathentry kind="lib" path="lib/jetty-webapp-9.4.31.v20200723.jar"/>
 	<classpathentry kind="lib" path="lib/jetty-xml-9.4.31.v20200723.jar"/>
-	<classpathentry kind="lib" path="lib/mongodb-driver-core-4.7.1.jar"/>
-	<classpathentry kind="lib" path="lib/mongodb-driver-sync-4.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-core-4.7.1.jar" sourcepath="C:/Users/piersjob/.m2/repository/org/mongodb/mongodb-driver-core/4.7.1/mongodb-driver-core-4.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb-driver-sync-4.7.1.jar" sourcepath="C:/Users/piersjob/.m2/repository/org/mongodb/mongodb-driver-sync/4.7.1/mongodb-driver-sync-4.7.1-sources.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.9.jar"/>
 	<classpathentry kind="lib" path="lib/spark-core-2.9.3.jar"/>
