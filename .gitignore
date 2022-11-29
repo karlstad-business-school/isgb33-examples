@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# *.jar  //kommenterar bort denna så libs kommer med till studenterna :) /P
 *.war
 *.nar
 *.ear
